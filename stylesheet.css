@@ -1,3 +1,17 @@
+.icon-container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中，如果需要的话 */
+  gap: 10px; /* 控制图标间的间距 */
+}
+
+.icon {
+  width: 32px; /* 自定义图标宽度 */
+  height: 32px; /* 自定义图标高度 */
+  object-fit: cover; /* 保持图标长宽比并填充容器 */
+}
+
+
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
