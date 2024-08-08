@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}, nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter
 ==Da Chang
 
 ~~~
