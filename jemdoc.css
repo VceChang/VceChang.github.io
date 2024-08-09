@@ -22,6 +22,9 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: #f9f9f9; /* Optional: Change the background color */
+    font-size: 1.2em;
+    font-family: Georgia, serif;
+    background: white;
 }
 
 
